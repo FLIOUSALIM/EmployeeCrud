@@ -22,5 +22,5 @@
 hs_err_pid*
 
 # Intellij and target
-/.idea
-/target
+.idea/
+target/
